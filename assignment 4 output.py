@@ -1,7 +1,3 @@
-Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
-
-=========== RESTART: C:/Users/PRASHANT TIWARI/Desktop/assignment 4.py ==========
 Q1
 Enter mark:66
 Grade: B
@@ -32,7 +28,3 @@ Question 10:6x1=6
 Right!
 Q4
 Answer: 177
-
-=========== RESTART: C:/Users/PRASHANT TIWARI/Desktop/assignment 4.py ==========
-Q1
-Enter mark:
